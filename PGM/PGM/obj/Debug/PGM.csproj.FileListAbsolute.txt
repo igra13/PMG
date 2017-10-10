@@ -1,0 +1,10 @@
+c:\users\igor\documents\visual studio 2015\Projects\PGM\PGM\bin\Debug\PGM.exe.config
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\PGM\PGM\obj\Debug\PGM.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\PGM\PGM\obj\Debug\PGM.Form1.resources
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\PGM\PGM\obj\Debug\PGM.Properties.Resources.resources
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\PGM\PGM\obj\Debug\PGM.csproj.GenerateResource.Cache
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\PGM\PGM\bin\Debug\PGM.exe
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\PGM\PGM\bin\Debug\PGM.pdb
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\PGM\PGM\bin\Debug\MySql.Data.dll
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\PGM\PGM\obj\Debug\PGM.exe
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\PGM\PGM\obj\Debug\PGM.pdb
